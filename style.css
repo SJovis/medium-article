@@ -97,12 +97,11 @@ a {
   color: #79B4B7;
   align-self: flex-end;
   bottom: 20px;
-
+  border-radius: 20px;
+  padding: 10px 15px;
 }
 
 a:hover {
-  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(150, 209, 212, 0.3));
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0)45%, rgba(150, 209, 212, 0.3));
   text-decoration: underline;
 }
-
-rgb(121, 180, 183)
